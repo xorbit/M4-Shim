@@ -19,6 +19,9 @@ compact solution.
 The only thing missing versus the Feather M4 Express is the battery support circuitry,
 which did not seem necessary in a PoE design.
 
+The hardware is sold with the [UF2 bootloader](https://github.com/adafruit/uf2-samdx1)
+and [CircuitPython](https://github.com/adafruit/circuitpython) pre-installed.
+
 ### License
 
 This redesign by Silicognition LLC is licensed as Creative Commons Attribution/Share-Alike,
