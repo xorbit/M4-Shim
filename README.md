@@ -1,5 +1,8 @@
 # M4-Shim
-M4 Shim for PoE-FeatherWing, functionally equivalent to Feather M4 Express
+ARM Cortex M4 shim for PoE-FeatherWing, functionally equivalent to Feather M4 Express
+
+You can buy it now on [Tindie](https://www.tindie.com/products/silicognition/m4-shim/)
+or on [Amazon](https://www.amazon.com/M4-Shim-Feather-PoE-FeatherWing-Ultra-Compact-Vertical/dp/B0971PKDV7/)!
 
 ### Description
 
