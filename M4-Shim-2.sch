@@ -10175,6 +10175,7 @@ TCC1:
 <text x="167.64" y="114.3" size="1.778" layer="97">CAN1_TX</text>
 <text x="167.64" y="111.76" size="1.778" layer="97">CAN1_RX</text>
 <text x="330.2" y="27.94" size="5.08" layer="94">M4 Shim for PoE-FeatherWing</text>
+<text x="419.1" y="7.62" size="2.54" layer="94">2</text>
 </plain>
 <instances>
 <instance part="GND1" gate="1" x="83.82" y="210.82"/>
